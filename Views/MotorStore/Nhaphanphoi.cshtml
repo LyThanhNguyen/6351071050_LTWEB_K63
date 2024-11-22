@@ -1,0 +1,10 @@
+﻿@model IEnumerable<_123.Models.NHAPHANPHOI>
+<p class="lead"style="background-color:black;color:white;margin-bottom:0px; border-radius:5px; text-align: center"> Nhà phân phối</p>
+<div class="list-group">
+    @foreach (var item in Model)
+    {
+        <a href="@Url.Action("SPTheonhaphanphoi","MotorStore",new {id = item.MaNPP})" class="list-group-item">
+            @item.TenNPP
+        </a>
+    }
+</div>

@@ -1,0 +1,36 @@
+﻿@model IEnumerable<_123.Models.XEGANMAY>
+@{
+    ViewBag.Title = "SPTheoloaixe";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+<h3 style="text-align:center;color:red">Xe theo loại xe</h3>
+<div class="row">
+    @foreach (var xe in Model)
+    {
+        <div class="col-sm-4 col-lg-4 col-md-4 ">
+            <div class="thumbnail">
+                <a href="@Url.Action("Details", "MotorStore",new {id = xe.MaXe})">
+                    <img alt="@xe.TenXe" src="~/Content/images/@xe.Anhbia" width="200" />
+                </a>
+                <div>
+                    <br />
+                    <h4 style="text-align:center">
+                        @xe.TenXe
+                    </h4>
+                    <p></p>
+                </div>
+                <div class="rating">
+                    <p class="pull-right">15 reviews</p>
+                    <p>
+                        <span class="glyphicon glyphicon-star"></span>
+                        <span class="glyphicon glyphicon-star"></span>
+                        <span class="glyphicon glyphicon-star"></span>
+                        <span class="glyphicon glyphicon-star"></span>
+                        <span class="glyphicon glyphicon-star"></span>
+                        <span class="glyphicon glyphicon-star"></span>
+                    </p>
+                </div>
+            </div>
+        </div>
+    }
+</div>

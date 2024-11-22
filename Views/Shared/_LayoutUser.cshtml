@@ -1,0 +1,83 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>New Store Template, HTML CSS free website template</title>
+    <meta name="keywords" content="New Store Template, HTML CSS, 3-column, website template, ecommerce template" />
+    <meta name="description" content="New Store Template is a free HTML CSS website template provided by templatemo.com" />
+    <link href="~/Content/templatemo_style.css" rel="stylesheet" type="text/css" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet"/>
+
+</head>
+<body style="background: url(/Content/images/backgroundd.jpg)">
+
+    <div id="templatemo_wrapper">
+        <div id="templatemo_header">
+
+            <div id="site_title">
+                <a href="http://www.templatemo.com/page/1" target="_parent">
+                    <img src="~/Content/images/logo.jpg" alt="logo" />
+                    <span>Motor store</span>
+                </a>
+            </div>
+            <div style="text-align:center">
+                <h1 style="color:black">Motor Shop</h1>
+            </div>
+        </div>
+        <div id="templatemo_menu">
+            <div id="search_box">
+                <form action="#" method="get">
+                    <input type="text" value="" name="username" size="10" id="input_field" title="usernmae" />
+                    <input type="submit" name="login" value="Search" alt="login" id="submit_btn" title="Login" />
+                </form>
+            </div>
+
+            <ul>
+                <li><a href="#" class="current">Today's Specials</a></li>
+                <li><a href="http://www.templatemo.com/page/1" target="_parent">Templates</a></li>
+                <li><a href="#">Wish Lists</a></li>
+                <li><a href="subpage.html">Shipping Rates</a></li>
+                <li><a href="index.html">Return Policies</a></li>
+                <li><a href="subpage.html">Your Account</a></li>
+                <li><a href="index.html">Help</a></li>
+            </ul>
+        </div>
+        <div class="templatemo_sidebar_wrapper float_l">
+            <div class="templatemo_sidebar_top"></div>
+            <div class="templatemo_sidebar">
+
+                <div class="sidebar_box">
+                    <div class="col-md-3"></div>
+                    @Html.Action("LoaiXe", "MotorStore")
+                    @Html.Action("NhaPhanPhoi", "MotorStore")
+                </div>
+                </div>
+        </div>
+        <div>
+            @RenderBody()
+        </div>
+        <div id="templatemo_footer_wrapper">
+
+            <div id="templatemo_footer">
+
+                <ul class="footer_menu">
+                    <li><a href="#" class="current">Today's Specials</a></li>
+                    <li><a href="http://www.webdesignmo.com/blog" target="_blank">Web Design</a></li>
+                    <li><a href="http://www.templatemo.com" target="_parent">Templates</a></li>
+                    <li><a href="#">Wish Lists</a></li>
+                    <li><a href="#">Shipping Rates</a></li>
+                    <li><a href="#">Return Policies</a></li>
+                    <li><a href="#">Your Account</a></li>
+                    <li class="last_menu"><a href="#">Help</a></li>
+                </ul>
+
+                Copyright © 2048 <a href="#">Your Company Name</a> |
+                <a href="http://www.iwebsitetemplate.com" target="_parent">Website Templates</a> by
+                <a href="http://www.templatemo.com/page/1" target="_parent">Free CSS Templates</a>
+            </div>
+            <div class="cleaner"></div>
+        </div> <!-- end of footer -->
+    </div> <!-- end of templatmeo_footer_wrapper -->
+
+</body>
+</html>
