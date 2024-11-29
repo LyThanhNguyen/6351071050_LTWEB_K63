@@ -1,4 +1,7 @@
-﻿@model IEnumerable<_123.Models.XEGANMAY>
+﻿@using _123.Models
+@using PagedList.Mvc;
+@model PagedList.PagedList<XEGANMAY>
+
 @{
     ViewBag.Title = "Index";
     Layout = "~/Views/Shared/_LayoutUser.cshtml";
@@ -34,3 +37,12 @@
         </div>
     }
 </div>
+Trang @(Model.PageCount<Model.PageNumber?0:Model.PageNumber)/@Model.PageCount
+<div class="MenuTrang">
+    @Html.PagedListPager(Model, page => Url.Action("Index", new {page=page}))
+</div>
+<style>
+    .MenuTrang li{
+        display: inline;
+    }
+</style>

@@ -4,6 +4,8 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using _123.Models;
+using PagedList;
+using PagedList.Mvc;
 
 namespace _123.Controllers
 {
@@ -26,10 +28,13 @@ namespace _123.Controllers
         {
             return data.XEGANMAYs.OrderByDescending(x => x.Ngaycapnhat).Take(count).ToList();
         }
-        public ActionResult Index()
+        public ActionResult Index(int ? page)
         {
-            var xemoi = Layxemoi(5);
-            return View(xemoi); 
+            int pageSize = 5;
+            int pageNum = (page ?? 1);
+
+            var xemoi = Layxemoi(15);
+            return View(xemoi.ToPagedList(pageNum,pageSize)); 
         }
         public ActionResult Loaixe()
         {

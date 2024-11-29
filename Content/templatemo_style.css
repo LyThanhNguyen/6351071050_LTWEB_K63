@@ -41,7 +41,7 @@ img { margin: 0px; padding: 0px; border: none; }
 #templatemo_wrapper {
 	width: 970px;
 	padding: 0 10px;
-	margin: 0 auto;
+	margin: 0 50px;
 	background: url(~/Content/images/templatemo_wrapper_top.jpg) no-repeat top center;
 }
 

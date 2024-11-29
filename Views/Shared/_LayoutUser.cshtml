@@ -6,7 +6,9 @@
     <meta name="keywords" content="New Store Template, HTML CSS, 3-column, website template, ecommerce template" />
     <meta name="description" content="New Store Template is a free HTML CSS website template provided by templatemo.com" />
     <link href="~/Content/templatemo_style.css" rel="stylesheet" type="text/css" />
-    <link href="~/Content/bootstrap.min.css" rel="stylesheet"/>
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
+
 
 </head>
 <body style="background: url(/Content/images/backgroundd.jpg)">
@@ -32,16 +34,17 @@
                 </form>
             </div>
 
-            <ul>
+            <ul style="height:50px; display: flex; align-items: center;">
                 <li><a href="#" class="current">Today's Specials</a></li>
                 <li><a href="http://www.templatemo.com/page/1" target="_parent">Templates</a></li>
-                <li><a href="#">Wish Lists</a></li>
+                <li style="height: 50px; display: flex; align-items: center; justify-content: center;">
+                    <a href="#">Wish Lists</a>
+                </li>
                 <li><a href="subpage.html">Shipping Rates</a></li>
                 <li><a href="index.html">Return Policies</a></li>
-                <li><a href="subpage.html">Your Account</a></li>
-                <li><a href="index.html">Help</a></li>
+                <li>@Html.Action("GiohangPartial", "Giohang")</li>
             </ul>
-        </div>
+          </div>
         <div class="templatemo_sidebar_wrapper float_l">
             <div class="templatemo_sidebar_top"></div>
             <div class="templatemo_sidebar">
