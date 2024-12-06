@@ -1,0 +1,89 @@
+﻿@model _123.Models.XEGANMAY
+
+@{
+    ViewBag.Title = "Xoaxeganmay";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2>XAC NHAN THONG TIN CAN XOA</h2>
+
+<h3>Ban quyet dinh xoa quyen sach nay ?</h3>
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Ten xe:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TenXe)
+        </dd>
+
+        <dt>
+            Gia ban:
+        </dt>
+
+        <dd>
+            @String.Format("{0:0,0}", Model.Giaban) VND
+        </dd>
+
+        <dt>
+            Mo ta:
+        </dt>
+
+        <dd style="width:600px; text-align:justify">
+            @Html.DisplayFor(model => model.Mota)
+        </dd>
+
+        <dt>
+            Anh bia:
+        </dt>
+
+        <dd>
+            <img src="@Url.Content("~/Content/images/"+ Model.Anhbia)" width="120px" />
+        </dd>
+
+        <dt>
+            Ngay cap nhat:
+        </dt>
+
+        <dd>
+            @String.Format("{0:dd/MM/yyyy}", Model.Ngaycapnhat)
+        </dd>
+
+        <dt>
+            So luong ton:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Soluongton)
+        </dd>
+
+        <dt>
+            Loai xe:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LOAIXE.TenLoaiXe)
+        </dd>
+
+        <dt>
+            Nha phan phoi:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NHAPHANPHOI.TenNPP)
+        </dd>
+
+    </dl>
+</div>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Xoa" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Xeganmay")
+        </div>
+    }
+</div>

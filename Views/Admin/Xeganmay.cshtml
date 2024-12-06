@@ -1,0 +1,88 @@
+﻿@using _123.Models
+@using PagedList.Mvc;
+@model  PagedList.PagedList<_123.Models.XEGANMAY>
+
+
+@helper Truncate(string input, int length) 
+{ 
+        
+    if(input.Length < length)
+    {
+        @input
+    }
+    else
+    {
+        @input.Substring(0, length)<text> ... </text>
+    }
+}
+
+@{
+    ViewBag.Title = "Xeganmay";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2>QUAN LY THONG TIN XE GAN MAY</h2>
+
+<p>
+    @Html.ActionLink("Them moi", "Themmoixeganmay")
+</p>
+<table class="table">
+
+    <tr>
+        <th style="width: 200px"> Ten xe </th>
+        <th style="width: 100px"> Gia ban </th>
+        <th style="width: 300px"> Mo ta </th>
+        <th style="width: 120px"> Anh bia </th>
+        <th style="width: 150px"> Ngay cap nhat </th>
+        <th style="width: 120px"> SL. ton </th>
+        <th style="width: 120px"> Loai xe </th>
+        <th style="width: 100px"> Ten NPP </th>
+        <th style="width: 200px">  </th>
+
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TenXe)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Giaban)
+            </td>
+            <td>
+                @Truncate(item.Mota, 100)
+            </td>
+            <td>
+                <img src="@Url.Content("~/Content/images/"+ item.Anhbia)" />
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Ngaycapnhat)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Soluongton)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LOAIXE.TenLoaiXe)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NHAPHANPHOI.TenNPP)
+            </td>
+            <td>
+                @Html.ActionLink("Sua", "Suaxeganmay", new { id = item.MaXe }) |
+                @Html.ActionLink("Chi tiet", "Chitietxeganmay", new { id = item.MaXe }) |
+                @Html.ActionLink("Xoa", "Xoaxeganmay", new { id = item.MaXe })
+            </td>
+        </tr>
+    }
+
+</table>
+Trang @(Model.PageCount<Model.PageNumber?0:Model.PageNumber)/@Model.PageCount
+<div class="MenuTrang">
+    @Html.PagedListPager(Model, page => Url.Action("Xeganmay", new { page = page }))
+</div>
+<style>
+    .MenuTrang li {
+        display: inline;
+    }
+</style>

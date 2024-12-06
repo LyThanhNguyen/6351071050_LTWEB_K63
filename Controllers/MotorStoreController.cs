@@ -48,7 +48,7 @@ namespace _123.Controllers
         }
         public ActionResult SPTheoloaixe(int id)
         {
-            var xe = from s in data.XEGANMAYs where s.MaXe == id select s;
+            var xe = from s in data.XEGANMAYs where s.MaLX == id select s;
             return View(xe);
         }
         public ActionResult SPTheoNhaphanphoi(int id)

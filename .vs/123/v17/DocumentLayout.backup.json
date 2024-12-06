@@ -1,112 +1,156 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh1\\",
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|c:\\users\\admin\\source\\repos\\bt_thuchanh\\baithuchanh1\\views\\nguoidung\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|solutionrelative:views\\nguoidung\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|c:\\users\\admin\\source\\repos\\bt_thuchanh\\baithuchanh1\\views\\motorstore\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|solutionrelative:views\\motorstore\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\views\\admin\\suaxeganmay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|solutionrelative:views\\admin\\suaxeganmay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh1\\content\\templatemo_style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|solutionrelative:content\\templatemo_style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh1\\views\\motorstore\\sptheonhaphanphoi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|solutionrelative:views\\motorstore\\sptheonhaphanphoi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\views\\admin\\themmoixeganmay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|solutionrelative:views\\admin\\themmoixeganmay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|c:\\users\\admin\\source\\repos\\bt_thuchanh\\baithuchanh1\\views\\giohang\\giohang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|solutionrelative:views\\giohang\\giohang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\views\\admin\\xeganmay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|solutionrelative:views\\admin\\xeganmay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh1\\Views\\MotorStore\\SPTheoloaixe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|solutionrelative:Views\\MotorStore\\SPTheoloaixe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\views\\admin\\chitietxeganmay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|solutionrelative:views\\admin\\chitietxeganmay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh1\\Views\\MotorStore\\Loaixe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|solutionrelative:Views\\MotorStore\\Loaixe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\views\\admin\\xoaxeganmay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|solutionrelative:views\\admin\\xoaxeganmay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|c:\\users\\admin\\source\\repos\\bt_thuchanh\\baithuchanh1\\controllers\\nguoidungcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|solutionrelative:controllers\\nguoidungcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\views\\admin\\bieudoxe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|solutionrelative:views\\admin\\bieudoxe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|c:\\users\\admin\\source\\repos\\bt_thuchanh\\baithuchanh1\\controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|solutionrelative:controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|solutionrelative:views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh1\\Controllers\\MotorStoreController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|solutionrelative:Controllers\\MotorStoreController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|solutionrelative:views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|c:\\users\\admin\\source\\repos\\bt_thuchanh\\baithuchanh1\\views\\giohang\\dathang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|solutionrelative:views\\giohang\\dathang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|c:\\users\\admin\\source\\repos\\bt_thuchanh\\baithuchanh1\\models\\giohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|solutionrelative:models\\giohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|c:\\users\\admin\\source\\repos\\bt_thuchanh\\baithuchanh1\\views\\giohang\\xacnhandonhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|solutionrelative:views\\giohang\\xacnhandonhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh1\\views\\motorstore\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|solutionrelative:views\\motorstore\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|c:\\users\\admin\\source\\repos\\bt_thuchanh\\baithuchanh1\\views\\nguoidung\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|solutionrelative:views\\nguoidung\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|c:\\users\\admin\\source\\repos\\bt_thuchanh\\baithuchanh1\\views\\giohang\\giohangpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|solutionrelative:views\\giohang\\giohangpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh1\\views\\shared\\_layoutuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\views\\shared\\_layoutuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|solutionrelative:views\\shared\\_layoutuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh1\\Views\\MotorStore\\Nhaphanphoi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|solutionrelative:Views\\MotorStore\\Nhaphanphoi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\views\\motorstore\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|solutionrelative:views\\motorstore\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh1\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|solutionrelative:Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|solutionrelative:views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh1\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\views\\motorstore\\loaixe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|solutionrelative:views\\motorstore\\loaixe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|solutionrelative:controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\controllers\\motorstorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|solutionrelative:controllers\\motorstorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\views\\motorstore\\sptheonhaphanphoi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|solutionrelative:views\\motorstore\\sptheonhaphanphoi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\views\\motorstore\\sptheoloaixe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|solutionrelative:views\\motorstore\\sptheoloaixe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\views\\motorstore\\nhaphanphoi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|solutionrelative:views\\motorstore\\nhaphanphoi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\views\\motorstore\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|solutionrelative:views\\motorstore\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\models\\qlbanxeganmay.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|",
+      "RelativeMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|solutionrelative:models\\qlbanxeganmay.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\models\\qlbanxeganmay.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|solutionrelative:models\\qlbanxeganmay.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\views\\giohang\\dathang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|solutionrelative:views\\giohang\\dathang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\views\\nguoidung\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|solutionrelative:views\\nguoidung\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\content\\templatemo_style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|solutionrelative:content\\templatemo_style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\views\\giohang\\giohang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|solutionrelative:views\\giohang\\giohang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\controllers\\nguoidungcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|solutionrelative:controllers\\nguoidungcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\models\\giohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|solutionrelative:models\\giohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\views\\giohang\\xacnhandonhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|solutionrelative:views\\giohang\\xacnhandonhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\views\\nguoidung\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|solutionrelative:views\\nguoidung\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\views\\giohang\\giohangpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|solutionrelative:views\\giohang\\giohangpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|solutionrelative:app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\thuchanh\\Content\\templatemo_style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh1\\Views\\Home\\About.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|solutionrelative:Views\\Home\\About.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|solutionrelative:views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh1\\Views\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|solutionrelative:Views\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh1\\Models\\QLBanxeganmay.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|",
-      "RelativeMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|solutionrelative:Models\\QLBanxeganmay.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|"
+      "AbsoluteMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|solutionrelative:global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh1\\Views\\Shared\\Error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|solutionrelative:Views\\Shared\\Error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh1\\Global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|solutionrelative:Global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh1\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{14456195-9D9B-4973-BE17-F5A227C5D7FF}|123.csproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -117,171 +161,249 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Xacnhandonhang.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh1\\Views\\Giohang\\Xacnhandonhang.cshtml",
-              "RelativeDocumentMoniker": "Views\\Giohang\\Xacnhandonhang.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh1\\Views\\Giohang\\Xacnhandonhang.cshtml",
-              "RelativeToolTip": "Views\\Giohang\\Xacnhandonhang.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA5AAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Suaxeganmay.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\Views\\Admin\\Suaxeganmay.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Suaxeganmay.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\Views\\Admin\\Suaxeganmay.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Suaxeganmay.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-29T12:20:55.976Z",
+              "WhenOpened": "2024-12-06T07:48:01.619Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DatHang.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh1\\Views\\Giohang\\DatHang.cshtml",
-              "RelativeDocumentMoniker": "Views\\Giohang\\DatHang.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh1\\Views\\Giohang\\DatHang.cshtml",
-              "RelativeToolTip": "Views\\Giohang\\DatHang.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Chitietxeganmay.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\Views\\Admin\\Chitietxeganmay.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Chitietxeganmay.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\Views\\Admin\\Chitietxeganmay.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Chitietxeganmay.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-29T11:51:29.492Z",
+              "WhenOpened": "2024-12-06T07:20:14.303Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "GiohangPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh1\\Views\\Giohang\\GiohangPartial.cshtml",
-              "RelativeDocumentMoniker": "Views\\Giohang\\GiohangPartial.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh1\\Views\\Giohang\\GiohangPartial.cshtml",
-              "RelativeToolTip": "Views\\Giohang\\GiohangPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA7AAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Themmoixeganmay.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\Views\\Admin\\Themmoixeganmay.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Themmoixeganmay.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\Views\\Admin\\Themmoixeganmay.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Themmoixeganmay.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-29T09:57:04.074Z",
+              "WhenOpened": "2024-12-05T12:40:26.727Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "GioHang.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh1\\Views\\Giohang\\GioHang.cshtml",
-              "RelativeDocumentMoniker": "Views\\Giohang\\GioHang.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh1\\Views\\Giohang\\GioHang.cshtml",
-              "RelativeToolTip": "Views\\Giohang\\GioHang.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Title": "Xeganmay.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\Views\\Admin\\Xeganmay.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Xeganmay.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\Views\\Admin\\Xeganmay.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Xeganmay.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADgAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-29T09:20:23.386Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "GioHangController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh1\\Controllers\\GioHangController.cs",
-              "RelativeDocumentMoniker": "Controllers\\GioHangController.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh1\\Controllers\\GioHangController.cs",
-              "RelativeToolTip": "Controllers\\GioHangController.cs",
-              "ViewState": "AgIAAIgAAAAAAAAAAAAcwIgAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T09:04:30.139Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Giohang.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh1\\Models\\Giohang.cs",
-              "RelativeDocumentMoniker": "Models\\Giohang.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh1\\Models\\Giohang.cs",
-              "RelativeToolTip": "Models\\Giohang.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T08:53:46.228Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Dangnhap.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh1\\Views\\Nguoidung\\Dangnhap.cshtml",
-              "RelativeDocumentMoniker": "Views\\Nguoidung\\Dangnhap.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh1\\Views\\Nguoidung\\Dangnhap.cshtml",
-              "RelativeToolTip": "Views\\Nguoidung\\Dangnhap.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-29T08:13:33.599Z",
+              "WhenOpened": "2024-12-05T09:58:30.452Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Dangky.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh1\\Views\\Nguoidung\\Dangky.cshtml",
-              "RelativeDocumentMoniker": "Views\\Nguoidung\\Dangky.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh1\\Views\\Nguoidung\\Dangky.cshtml",
-              "RelativeToolTip": "Views\\Nguoidung\\Dangky.cshtml",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-06T09:20:44.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAALoAAAAAAAAAAAAiwMEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T07:41:32.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Xoaxeganmay.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\Views\\Admin\\Xoaxeganmay.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Xoaxeganmay.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\Views\\Admin\\Xoaxeganmay.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Xoaxeganmay.cshtml",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAUwFQAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-29T06:49:32.4Z",
+              "WhenOpened": "2024-12-06T07:33:25.393Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "NguoidungController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh1\\Controllers\\NguoidungController.cs",
-              "RelativeDocumentMoniker": "Controllers\\NguoidungController.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh1\\Controllers\\NguoidungController.cs",
-              "RelativeToolTip": "Controllers\\NguoidungController.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAkwE4AAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T06:47:59.493Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "RouteConfig.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh1\\App_Start\\RouteConfig.cs",
-              "RelativeDocumentMoniker": "App_Start\\RouteConfig.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh1\\App_Start\\RouteConfig.cs",
-              "RelativeToolTip": "App_Start\\RouteConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T01:48:55.289Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh1\\Views\\MotorStore\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\MotorStore\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh1\\Views\\MotorStore\\Index.cshtml",
-              "RelativeToolTip": "Views\\MotorStore\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAYAAAAAAAAAA==",
+              "Title": "Bieudoxe.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\Views\\Admin\\Bieudoxe.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Bieudoxe.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\Views\\Admin\\Bieudoxe.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Bieudoxe.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-22T07:49:33.4Z",
+              "WhenOpened": "2024-12-06T08:41:12.655Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 8,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\Views\\Admin\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\Views\\Admin\\Login.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Login.cshtml",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T07:43:14.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADUAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T08:37:14.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "_LayoutUser.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh1\\Views\\Shared\\_LayoutUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\Views\\Shared\\_LayoutUser.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_LayoutUser.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh1\\Views\\Shared\\_LayoutUser.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\Views\\Shared\\_LayoutUser.cshtml",
               "RelativeToolTip": "Views\\Shared\\_LayoutUser.cshtml",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAAMAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-22T07:30:31.505Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\Views\\MotorStore\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\MotorStore\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\Views\\MotorStore\\Index.cshtml",
+              "RelativeToolTip": "Views\\MotorStore\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T07:49:33.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T08:46:57.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Loaixe.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\Views\\MotorStore\\Loaixe.cshtml",
+              "RelativeDocumentMoniker": "Views\\MotorStore\\Loaixe.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\Views\\MotorStore\\Loaixe.cshtml",
+              "RelativeToolTip": "Views\\MotorStore\\Loaixe.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T12:37:03.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GioHangController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\Controllers\\GioHangController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GioHangController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\Controllers\\GioHangController.cs",
+              "RelativeToolTip": "Controllers\\GioHangController.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAADwvwwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T09:04:30.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 17,
+              "Title": "SPTheoloaixe.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\Views\\MotorStore\\SPTheoloaixe.cshtml",
+              "RelativeDocumentMoniker": "Views\\MotorStore\\SPTheoloaixe.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\Views\\MotorStore\\SPTheoloaixe.cshtml",
+              "RelativeToolTip": "Views\\MotorStore\\SPTheoloaixe.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T13:48:54.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MotorStoreController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\Controllers\\MotorStoreController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MotorStoreController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\Controllers\\MotorStoreController.cs",
+              "RelativeToolTip": "Controllers\\MotorStoreController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAxwDcAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T07:44:58.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SPTheoNhaphanphoi.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\Views\\MotorStore\\SPTheoNhaphanphoi.cshtml",
+              "RelativeDocumentMoniker": "Views\\MotorStore\\SPTheoNhaphanphoi.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\Views\\MotorStore\\SPTheoNhaphanphoi.cshtml",
+              "RelativeToolTip": "Views\\MotorStore\\SPTheoNhaphanphoi.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T14:33:45.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "Nhaphanphoi.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh1\\Views\\MotorStore\\Nhaphanphoi.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\Views\\MotorStore\\Nhaphanphoi.cshtml",
               "RelativeDocumentMoniker": "Views\\MotorStore\\Nhaphanphoi.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh1\\Views\\MotorStore\\Nhaphanphoi.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\Views\\MotorStore\\Nhaphanphoi.cshtml",
               "RelativeToolTip": "Views\\MotorStore\\Nhaphanphoi.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAByAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -290,50 +412,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Loaixe.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh1\\Views\\MotorStore\\Loaixe.cshtml",
-              "RelativeDocumentMoniker": "Views\\MotorStore\\Loaixe.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh1\\Views\\MotorStore\\Loaixe.cshtml",
-              "RelativeToolTip": "Views\\MotorStore\\Loaixe.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAACCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-22T12:37:03.599Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MotorStoreController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh1\\Controllers\\MotorStoreController.cs",
-              "RelativeDocumentMoniker": "Controllers\\MotorStoreController.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh1\\Controllers\\MotorStoreController.cs",
-              "RelativeToolTip": "Controllers\\MotorStoreController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAqwCMAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T07:44:58.543Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SPTheoloaixe.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh1\\Views\\MotorStore\\SPTheoloaixe.cshtml",
-              "RelativeDocumentMoniker": "Views\\MotorStore\\SPTheoloaixe.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh1\\Views\\MotorStore\\SPTheoloaixe.cshtml",
-              "RelativeToolTip": "Views\\MotorStore\\SPTheoloaixe.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-22T13:48:54.336Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh1\\Views\\MotorStore\\Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\Views\\MotorStore\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\MotorStore\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh1\\Views\\MotorStore\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\Views\\MotorStore\\Details.cshtml",
               "RelativeToolTip": "Views\\MotorStore\\Details.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -342,11 +425,153 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 25,
+              "Title": "GioHang.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\Views\\Giohang\\GioHang.cshtml",
+              "RelativeDocumentMoniker": "Views\\Giohang\\GioHang.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\Views\\Giohang\\GioHang.cshtml",
+              "RelativeToolTip": "Views\\Giohang\\GioHang.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T09:20:23.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DatHang.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\Views\\Giohang\\DatHang.cshtml",
+              "RelativeDocumentMoniker": "Views\\Giohang\\DatHang.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\Views\\Giohang\\DatHang.cshtml",
+              "RelativeToolTip": "Views\\Giohang\\DatHang.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T11:51:29.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "QLBanxeganmay.dbml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\Models\\QLBanxeganmay.dbml",
+              "RelativeDocumentMoniker": "Models\\QLBanxeganmay.dbml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\Models\\QLBanxeganmay.dbml",
+              "RelativeToolTip": "Models\\QLBanxeganmay.dbml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001722|",
+              "WhenOpened": "2024-12-05T08:00:21.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "QLBanxeganmay.designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\Models\\QLBanxeganmay.designer.cs",
+              "RelativeDocumentMoniker": "Models\\QLBanxeganmay.designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\Models\\QLBanxeganmay.designer.cs",
+              "RelativeToolTip": "Models\\QLBanxeganmay.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T08:01:12.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "GiohangPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\Views\\Giohang\\GiohangPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Giohang\\GiohangPartial.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\Views\\Giohang\\GiohangPartial.cshtml",
+              "RelativeToolTip": "Views\\Giohang\\GiohangPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T09:57:04.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Xacnhandonhang.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\Views\\Giohang\\Xacnhandonhang.cshtml",
+              "RelativeDocumentMoniker": "Views\\Giohang\\Xacnhandonhang.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\Views\\Giohang\\Xacnhandonhang.cshtml",
+              "RelativeToolTip": "Views\\Giohang\\Xacnhandonhang.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T12:20:55.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Giohang.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\Models\\Giohang.cs",
+              "RelativeDocumentMoniker": "Models\\Giohang.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\Models\\Giohang.cs",
+              "RelativeToolTip": "Models\\Giohang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T08:53:46.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Dangnhap.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\Views\\Nguoidung\\Dangnhap.cshtml",
+              "RelativeDocumentMoniker": "Views\\Nguoidung\\Dangnhap.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\Views\\Nguoidung\\Dangnhap.cshtml",
+              "RelativeToolTip": "Views\\Nguoidung\\Dangnhap.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T08:13:33.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Dangky.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\Views\\Nguoidung\\Dangky.cshtml",
+              "RelativeDocumentMoniker": "Views\\Nguoidung\\Dangky.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\Views\\Nguoidung\\Dangky.cshtml",
+              "RelativeToolTip": "Views\\Nguoidung\\Dangky.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T06:49:32.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "NguoidungController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\Controllers\\NguoidungController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NguoidungController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\Controllers\\NguoidungController.cs",
+              "RelativeToolTip": "Controllers\\NguoidungController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAkwE4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T06:47:59.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T01:48:55.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh1\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -355,24 +580,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SPTheoNhaphanphoi.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh1\\Views\\MotorStore\\SPTheoNhaphanphoi.cshtml",
-              "RelativeDocumentMoniker": "Views\\MotorStore\\SPTheoNhaphanphoi.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh1\\Views\\MotorStore\\SPTheoNhaphanphoi.cshtml",
-              "RelativeToolTip": "Views\\MotorStore\\SPTheoNhaphanphoi.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-22T14:33:45.119Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 24,
               "Title": "templatemo_style.css",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh1\\Content\\templatemo_style.css",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\Content\\templatemo_style.css",
               "RelativeDocumentMoniker": "Content\\templatemo_style.css",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh1\\Content\\templatemo_style.css",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\Content\\templatemo_style.css",
               "RelativeToolTip": "Content\\templatemo_style.css",
               "ViewState": "AgIAABgAAAAAAAAAAAAAACsAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -381,11 +593,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 34,
               "Title": "About.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh1\\Views\\Home\\About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\Views\\Home\\About.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\About.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh1\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\Views\\Home\\About.cshtml",
               "RelativeToolTip": "Views\\Home\\About.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -394,36 +606,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh1\\Views\\Web.config",
-              "RelativeDocumentMoniker": "Views\\Web.config",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh1\\Views\\Web.config",
-              "RelativeToolTip": "Views\\Web.config",
-              "ViewState": "AgIAABYAAAAAAAAAAABBwC8AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-11-22T09:33:02.227Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "QLBanxeganmay.dbml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh1\\Models\\QLBanxeganmay.dbml",
-              "RelativeDocumentMoniker": "Models\\QLBanxeganmay.dbml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh1\\Models\\QLBanxeganmay.dbml",
-              "RelativeToolTip": "Models\\QLBanxeganmay.dbml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001722|",
-              "WhenOpened": "2024-11-22T09:19:36.301Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 35,
               "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh1\\Views\\Shared\\Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh1\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\Views\\Shared\\Error.cshtml",
               "RelativeToolTip": "Views\\Shared\\Error.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -432,11 +619,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 36,
               "Title": "Global.asax.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh1\\Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\Global.asax.cs",
               "RelativeDocumentMoniker": "Global.asax.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh1\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\Global.asax.cs",
               "RelativeToolTip": "Global.asax.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -445,11 +632,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 37,
               "Title": "packages.config",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh1\\packages.config",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\packages.config",
               "RelativeDocumentMoniker": "packages.config",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh1\\packages.config",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BT_ThucHanh\\BaiThucHanh2\\packages.config",
               "RelativeToolTip": "packages.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
@@ -458,13 +645,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 33,
               "Title": "templatemo_style.css",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\thuchanh\\Content\\templatemo_style.css",
               "RelativeDocumentMoniker": "..\\..\\thuchanh\\Content\\templatemo_style.css",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\thuchanh\\Content\\templatemo_style.css",
               "RelativeToolTip": "..\\..\\thuchanh\\Content\\templatemo_style.css",
-              "ViewState": "AgIAACEAAAAAAAAAAIBJwMEBAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAIBZwMEBAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-11-22T08:23:03.646Z",
               "EditorCaption": ""

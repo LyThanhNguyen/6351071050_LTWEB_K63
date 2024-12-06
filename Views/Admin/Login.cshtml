@@ -1,0 +1,111 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Login V18</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!--===============================================================================================-->
+    <link rel="icon" type="image/png" href="~/Content/images/icons/favicon.ico" />
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/Content/vendor/bootstrap/css/bootstrap.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/Content/fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/Content/fonts/Linearicons-Free-v1.0.0/icon-font.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/Content/vendor/animate/animate.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/Content/vendor/css-hamburgers/hamburgers.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/Content/vendor/animsition/css/animsition.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/Content/vendor/select2/select2.min.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/Content/vendor/daterangepicker/daterangepicker.css">
+    <!--===============================================================================================-->
+    <link rel="stylesheet" type="text/css" href="~/Content/css/util.css">
+    <link rel="stylesheet" type="text/css" href="~/Content/css/main.css">
+    <!--===============================================================================================-->
+</head>
+<body >
+
+    <div class="limiter">
+        <div class="container-login100">
+            <div class="wrap-login100">
+                <form class="login100-form validate-form" method="post" style="background-color:darkgoldenrod">
+                    <span class="login100-form-title p-b-43">
+                        <h4 style="color:white">ĐĂNG NHẬP HỆ THỐNG QUẢN TRỊ</h4>
+                        <P style="color:aqua">Vui lòng nhập User Name và Password: </P>
+                        <h4 style="color:aqua; text-align:center;">@ViewBag.Thongbao</h4>
+                    </span>
+                    <div class="form-bottom" >
+
+                        @using (Html.BeginForm())
+
+                        {
+
+                            @Html.ValidationSummary(true)
+
+                            <div class="form-group">
+
+                                <label class="sr-only" for="form-username">Username: </label>
+
+                                <input type="text" name="username" placeholder="Username..." class="form-username form-control" id="form-username">
+
+                                @ViewData["Loi1"]
+
+                            </div>
+
+                            <div class="form-group">
+
+                                <label class="sr-only" for "form-password">Password: </label>
+
+                                <input type="password" name="password" placeholder="Password..." class="form-password form-control" id="form-password">
+
+                                @ViewData["Loi2"]
+
+                            </div>
+                            <div class="text-center">
+                                <button type="submit" class="btn" style="border: solid 1px; background-color: aqua;">Đăng Nhập</button>
+                            </div>
+                        }
+                    </div>
+                    <div class="login100-more" style="background-image: url('/Content/images/pexels-george-desipris-899238.jpg');">
+                    </div>
+                </form>
+
+
+
+
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+    <!--===============================================================================================-->
+    <script src="~/Content/vendor/jquery/jquery-3.2.1.min.js"></script>
+    <!--===============================================================================================-->
+    <script src="~/Content/vendor/animsition/js/animsition.min.js"></script>
+    <!--===============================================================================================-->
+    <script src="~/Content/vendor/bootstrap/js/popper.js"></script>
+    <script src="~/Content/vendor/bootstrap/js/bootstrap.min.js"></script>
+    <!--===============================================================================================-->
+    <script src="~/Content/vendor/select2/select2.min.js"></script>
+    <!--===============================================================================================-->
+    <script src="~/Content/vendor/daterangepicker/moment.min.js"></script>
+    <script src="~/Content/vendor/daterangepicker/daterangepicker.js"></script>
+    <!--===============================================================================================-->
+    <script src="~/Content/vendor/countdowntime/countdowntime.js"></script>
+    <!--===============================================================================================-->
+    <script src="~/Scripts/js/main.js"></script>
+
+</body>
+</html>

@@ -56,61 +56,67 @@
         <elementListCompartment Id="1b4843c3-fc57-4db5-a618-99ca0413795e" absoluteBounds="3.515, 2.21, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
       </nestedChildShapes>
     </classShape>
-    <associationConnector edgePoints="[(5.5 : 9.71875); (6.53125 : 9.71875); (6.53125 : 3.70359537760417)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+    <associationConnector edgePoints="[(5.5 : 9.71875); (6.53125 : 9.71875); (6.53125 : 3.70359537760417)]" fixedFrom="NotFixed" fixedTo="NotFixed">
       <AssociationMoniker Name="/QLBanxeganmayDataContext/DONDATHANG/DONDATHANG_CHITIETDONTHANG" />
       <nodes>
         <classShapeMoniker Id="d01ec6cd-736b-4e51-a284-d1c33075b49b" />
         <classShapeMoniker Id="dea8e9b9-3057-49bb-8b23-904c93464216" />
       </nodes>
     </associationConnector>
-    <associationConnector edgePoints="[(2.75 : 9.98159912109375); (3.5 : 9.98159912109375)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+    <associationConnector edgePoints="[(2.75 : 9.98159912109375); (3.5 : 9.98159912109375)]" fixedFrom="NotFixed" fixedTo="NotFixed">
       <AssociationMoniker Name="/QLBanxeganmayDataContext/KHACHHANG/KHACHHANG_DONDATHANG" />
       <nodes>
         <classShapeMoniker Id="796e8a28-fac1-46e1-ba4d-3e129775dd96" />
         <classShapeMoniker Id="d01ec6cd-736b-4e51-a284-d1c33075b49b" />
       </nodes>
     </associationConnector>
-    <associationConnector edgePoints="[(5.75 : 19.8854484049479); (7.875 : 19.8854484049479); (7.875 : 12.0785953776042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+    <associationConnector edgePoints="[(5.75 : 19.8854484049479); (7.875 : 19.8854484049479); (7.875 : 12.0785953776042)]" fixedFrom="NotFixed" fixedTo="NotFixed">
       <AssociationMoniker Name="/QLBanxeganmayDataContext/HANGSANXUAT/HANGSANXUAT_SANXUATXE" />
       <nodes>
         <classShapeMoniker Id="17674da2-7f4b-4bf0-9c85-e8b45ccca901" />
         <classShapeMoniker Id="17a36228-1818-4222-a7d6-72d93f57b1c0" />
       </nodes>
     </associationConnector>
-    <associationConnector edgePoints="[(6.125 : 13.2604484049479); (7.3437475 : 13.2604484049479); (7.3437475 : 12.0785953776042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+    <associationConnector edgePoints="[(6.125 : 13.2604484049479); (7.3437475 : 13.2604484049479); (7.3437475 : 12.0785953776042)]" fixedFrom="NotFixed" fixedTo="NotFixed">
       <AssociationMoniker Name="/QLBanxeganmayDataContext/HANGSANXUAT1/HANGSANXUAT1_SANXUATXE" />
       <nodes>
         <classShapeMoniker Id="c124bcad-6bce-4c89-a650-fa66345ca57e" />
         <classShapeMoniker Id="17a36228-1818-4222-a7d6-72d93f57b1c0" />
       </nodes>
     </associationConnector>
-    <associationConnector edgePoints="[(5.5 : 2.91429768880208); (6.25 : 2.91429768880208)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+    <associationConnector edgePoints="[(5.5 : 2.91429768880208); (6.25 : 2.91429768880208)]" fixedFrom="NotFixed" fixedTo="NotFixed">
       <AssociationMoniker Name="/QLBanxeganmayDataContext/XEGANMAY/XEGANMAY_CHITIETDONTHANG" />
       <nodes>
         <classShapeMoniker Id="a4d1c94d-df21-486a-be15-79610fac57d8" />
         <classShapeMoniker Id="dea8e9b9-3057-49bb-8b23-904c93464216" />
       </nodes>
     </associationConnector>
-    <associationConnector edgePoints="[(5.5 : 4.02809895833333); (6.44791666666667 : 4.02809895833333 : JumpStart); (6.61458333333333 : 4.02809895833333 : JumpEnd); (8.59375 : 4.02809895833333); (8.59375 : 10.5)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+    <associationConnector edgePoints="[(5.5 : 4.02809895833333); (6.44791666666667 : 4.02809895833333 : JumpStart); (6.61458333333333 : 4.02809895833333 : JumpEnd); (8.59375 : 4.02809895833333); (8.59375 : 10.5)]" fixedFrom="NotFixed" fixedTo="NotFixed">
       <AssociationMoniker Name="/QLBanxeganmayDataContext/XEGANMAY/XEGANMAY_SANXUATXE" />
       <nodes>
         <classShapeMoniker Id="a4d1c94d-df21-486a-be15-79610fac57d8" />
         <classShapeMoniker Id="17a36228-1818-4222-a7d6-72d93f57b1c0" />
       </nodes>
     </associationConnector>
-    <associationConnector edgePoints="[(2.75 : 6.91429768880208); (4.5 : 6.91429768880208); (4.5 : 4.2901025390625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+    <associationConnector edgePoints="[(2.75 : 6.91429768880208); (4.5 : 6.91429768880208); (4.5 : 4.2901025390625)]" fixedFrom="NotFixed" fixedTo="NotFixed">
       <AssociationMoniker Name="/QLBanxeganmayDataContext/NHAPHANPHOI/NHAPHANPHOI_XEGANMAY" />
       <nodes>
         <classShapeMoniker Id="87a8439d-739e-416d-b583-64d3c3ee0b80" />
         <classShapeMoniker Id="a4d1c94d-df21-486a-be15-79610fac57d8" />
       </nodes>
     </associationConnector>
-    <associationConnector edgePoints="[(2.75 : 2.97199625651042); (3.5 : 2.97199625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+    <associationConnector edgePoints="[(2.75 : 2.97199625651042); (3.5 : 2.97199625651042)]" fixedFrom="NotFixed" fixedTo="NotFixed">
       <AssociationMoniker Name="/QLBanxeganmayDataContext/LOAIXE/LOAIXE_XEGANMAY" />
       <nodes>
         <classShapeMoniker Id="8284fc19-630c-43b2-8bc4-2e4494cea8c6" />
         <classShapeMoniker Id="a4d1c94d-df21-486a-be15-79610fac57d8" />
       </nodes>
     </associationConnector>
+    <classShape Id="4cef7c64-7233-43d6-bc19-4af66965faeb" absoluteBounds="2.25, 16.875, 2, 1.3862939453125">
+      <DataClassMoniker Name="/QLBanxeganmayDataContext/Admin" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e26461a7-9aa4-4b1d-9797-b2fd9c95526a" absoluteBounds="2.265, 17.335, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
   </nestedChildShapes>
 </ordesignerObjectsDiagram>

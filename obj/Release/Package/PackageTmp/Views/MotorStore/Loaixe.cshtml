@@ -1,0 +1,10 @@
+﻿@model IEnumerable<_123.Models.LOAIXE>
+<p class="lead"  style="background-color:black;color:white;margin-bottom:0px; border-radius:5px; text-align: center"> Loại Xe </p>
+<div class="list-group">
+    @foreach (var item in Model)
+    {
+        <a href="@Url.Action("SPTheoloaixe","MotorStore",new {id = item.MaLX })" class="list-group-item">
+            @item.TenLoaiXe
+        </a>
+    }
+</div>
